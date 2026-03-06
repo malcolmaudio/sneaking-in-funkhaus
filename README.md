@@ -1,7 +1,7 @@
-# Funkhaus Modern
+# sneaking in Funkhaus
 
 ## Overview
-Funkhaus Modern is a multi-algorithm algorithmic reverb plugin. It builds upon classic reverberation topologies by providing modern shaping tools like tone control, saturation, and dual-chorus modulation.
+sneaking in Funkhaus is a multi-algorithm algorithmic reverb plugin. It builds upon classic reverberation topologies by providing modern shaping tools like tone control, saturation, and dual-chorus modulation.
 
 ## Algorithms (Spaces)
 1. **Cathedral**: Huge size, echoey, brighter damping.
