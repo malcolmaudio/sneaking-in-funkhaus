@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+02d254d506db4be8b8224a4f90c64b9d FunkhausModern_artefacts/JuceLibraryCode/FunkhausModern_AU/PkgInfo
+21332aa6865b68c70ff7765326a301e8 FunkhausModern_artefacts/JuceLibraryCode/FunkhausModern_VST3/PkgInfo
+404cca725af9596b506f375d7b072239 FunkhausModern_artefacts/JuceLibraryCode/JuceHeader.h
+935b2564888e6105aaefa51999100bbf juce_binarydata_FunkhausModernAssets/JuceLibraryCode/BinaryData1.cpp

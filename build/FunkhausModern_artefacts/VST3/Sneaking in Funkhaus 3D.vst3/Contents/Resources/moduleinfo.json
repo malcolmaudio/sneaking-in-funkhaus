@@ -1,0 +1,50 @@
+{
+  "Name": "Sneaking in Funkhaus 3D",
+  "Version": "0.0.1",
+  "Factory Info": {
+    "Vendor": "malcolm audio",
+    "URL": "",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB4572526953663364",
+      "Category": "Audio Module Class",
+      "Name": "Sneaking in Funkhaus 3D",
+      "Vendor": "malcolm audio",
+      "Version": "0.0.1",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Fx",
+        "Reverb",
+        "Spatial",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD4572526953663364",
+      "Category": "Component Controller Class",
+      "Name": "Sneaking in Funkhaus 3D",
+      "Vendor": "malcolm audio",
+      "Version": "0.0.1",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Fx",
+        "Reverb",
+        "Spatial",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
